@@ -1,0 +1,45 @@
+body {
+	background: url('http://th02.deviantart.net/fs71/PRE/f/2012/042/5/a/llama_by_kjherstin-d4pbti9.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.subscribe {
+	float: left;
+	width: 300px;
+	padding-left: 10px;
+	height: 19px;
+	text-align: left;
+	display: block;
+	margin-top: -9px;
+	margin-left: -19px;
+	margin-bottom: 50px;
+}
+
+input {
+	border: 0;
+	padding: 7px;
+}
+
+h1 {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 58px;
+	color: rgba(255,255,255,.5);
+	text-align: center;
+}
+
+main {
+	float: left;
+	clear: left;
+}
+
+li {
+	display: block;
+	text-transform: uppercase;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: rgba(255,255,255,.5);
+}
